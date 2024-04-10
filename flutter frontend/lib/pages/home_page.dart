@@ -6,6 +6,7 @@ import '../global/global_settings.dart';
 import '../page_viewer.dart';
 import '../utils/theme.dart';
 import '../widgets/homepage/ReusableContainerWidget.dart';
+import '../widgets/homepage/VehicleListView.dart';
 import '../widgets/homepage/brand_listview.dart';
 import '../widgets/homepage/typeListView.dart';
 import 'app_drawer.dart';
@@ -136,201 +137,211 @@ class _Page1State extends State<Page1> {
       backgroundColor: Color(0xFFF7F7F7),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        child: SingleChildScrollView(
 
-              children: [
-                Container(
-                  height: 48,
-                  width: 48,
-                  decoration: BoxDecoration(
-                    color: Colors.white,
-                    borderRadius: BorderRadius.circular(15.0),
-                  ),
-                  child: Icon(
-                    Icons.menu, // Icon for drawer
-                    color: Color(0xFF40279D), // Customize icon color
-                    size:24,
-                  ),
-                ),
-                Container(
-                  height: 48,
-                  width: 48,
-                  decoration: BoxDecoration(
-                    color: Colors.white,
-                    borderRadius: BorderRadius.circular(15.0),
-                  ),
-                  child: Icon(
-                    Icons.search, // Icon for search
-                    color: Color(0xFF40279D), // Customize icon color
-                    size:24,
-                  ),
-                ),
-              ],
-            ),
-            SizedBox(height:24),
-            ReusableContainerWidget(
-              child: Padding(
-                padding: const EdgeInsets.all(16.0),
-                child: Column(
-                  // crossAxisAlignment: CrossAxisAlignment.stretch,
-                  children: [
-                    SizedBox(height: 20.0),
-                    Text(
-                      'With Corporate Difference',
-                      textAlign: TextAlign.center,
-                      style: TextStyle(
-                        fontSize: 24.0,
-                        fontWeight: FontWeight.w900,
-                        color: Color(0xFF40279D),
-                      ),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          
+                children: [
+                  Container(
+                    height: 48,
+                    width: 48,
+                    decoration: BoxDecoration(
+                      color: Colors.white,
+                      borderRadius: BorderRadius.circular(15.0),
                     ),
-                    SizedBox(height: 10.0),
-                    Text(
-                      'Enjoyed Firm, Fund, or Driving Enterprise',
-                      textAlign: TextAlign.center,
-                      style: TextStyle(fontSize: 12.0),
+                    child: Icon(
+                      Icons.menu, // Icon for drawer
+                      color: Color(0xFF40279D), // Customize icon color
+                      size:24,
                     ),
-                    SizedBox(height: 20.0),
-                    Row(
-                      children: [
-                        Expanded(
-                          flex: 4,
-                          child: Container(
-                            height: 48, // Adjust the height as needed
-                            child: TextFormField(
-                              decoration: InputDecoration(
-                                hintText: 'Search a car',
-                              ),
-                            ),
-                          ),
+                  ),
+                  Container(
+                    height: 48,
+                    width: 48,
+                    decoration: BoxDecoration(
+                      color: Colors.white,
+                      borderRadius: BorderRadius.circular(15.0),
+                    ),
+                    child: Icon(
+                      Icons.search, // Icon for search
+                      color: Color(0xFF40279D), // Customize icon color
+                      size:24,
+                    ),
+                  ),
+                ],
+              ),
+              SizedBox(height:24),
+              ReusableContainerWidget(
+                child: Padding(
+                  padding: const EdgeInsets.all(16.0),
+                  child: Column(
+                    // crossAxisAlignment: CrossAxisAlignment.stretch,
+                    children: [
+                      SizedBox(height: 20.0),
+                      Text(
+                        'With Corporate Difference',
+                        textAlign: TextAlign.center,
+                        style: TextStyle(
+                          fontSize: 24.0,
+                          fontWeight: FontWeight.w900,
+                          color: Color(0xFF40279D),
                         ),
-                        SizedBox(width: 10.0),
-                        Expanded(
-                          flex: 1,
-                          child: Container(
-
-                            height: 48, // Adjust the height as needed
-                            child: ElevatedButton(
-                              onPressed: () {},
-                              child: Icon(Icons.equalizer),
-                              style: ButtonStyle(
-                                backgroundColor: MaterialStateProperty.all<Color>(Color(0xFF40279D)),
-                                shape: MaterialStateProperty.all<RoundedRectangleBorder>(
-                                  RoundedRectangleBorder(
-                                    borderRadius: BorderRadius.circular(10.0),
-                                  ),
+                      ),
+                      SizedBox(height: 10.0),
+                      Text(
+                        'Enjoyed Firm, Fund, or Driving Enterprise',
+                        textAlign: TextAlign.center,
+                        style: TextStyle(fontSize: 12.0),
+                      ),
+                      SizedBox(height: 20.0),
+                      Row(
+                        children: [
+                          Expanded(
+                            flex: 4,
+                            child: Container(
+                              height: 48, // Adjust the height as needed
+                              child: TextFormField(
+                                decoration: InputDecoration(
+                                  hintText: 'Search a car',
                                 ),
                               ),
                             ),
-
                           ),
-                        ),
-                      ],
-                    )
-
-                  ],
+                          SizedBox(width: 10.0),
+                          Expanded(
+                            flex: 1,
+                            child: Container(
+          
+                              height: 48, // Adjust the height as needed
+                              child: ElevatedButton(
+                                onPressed: () {},
+                                child: Icon(Icons.equalizer),
+                                style: ButtonStyle(
+                                  backgroundColor: MaterialStateProperty.all<Color>(Color(0xFF40279D)),
+                                  shape: MaterialStateProperty.all<RoundedRectangleBorder>(
+                                    RoundedRectangleBorder(
+                                      borderRadius: BorderRadius.circular(10.0),
+                                    ),
+                                  ),
+                                ),
+                              ),
+          
+                            ),
+                          ),
+                        ],
+                      )
+          
+                    ],
+                  ),
                 ),
               ),
-            ),
-
-            SizedBox(height:24),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-
-              children: [
-                Text(
-                  'Top Brands',
-                  textAlign: TextAlign.left,
-                  style: TextStyle(
-                    fontSize: 24.0,
-                    fontWeight: FontWeight.w900,
-                    color: Color(0xFF40279D),
-                  ),
-                ),
-                Text(
-                  'View All',
-                  textAlign: TextAlign.left,
-                  style: TextStyle(
-                    fontSize: 16.0,
-                    fontWeight: FontWeight.w600,
-                    color: Colors.grey,
-                  ),
-                ),
-              ],
-            ),
-// TODO: Implementation of the listitem click
-            Container(
-              height: 115,
-              child: ButtonListView(
-                onBrandSelected: widget.onBrandSelected,
+              Column(
+                  children: [
+          
+                  ]
               ),
-            ),
-
-            SizedBox(height:24),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-
-              children: [
-                Text(
-                  'Most Rated',
-                  textAlign: TextAlign.left,
-                  style: TextStyle(
-                    fontSize: 24.0,
-                    fontWeight: FontWeight.w900,
-                    color: Color(0xFF40279D),
+              SizedBox(height:24),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          
+                children: [
+                  Text(
+                    'Top Brands',
+                    textAlign: TextAlign.left,
+                    style: TextStyle(
+                      fontSize: 24.0,
+                      fontWeight: FontWeight.w900,
+                      color: Color(0xFF40279D),
+                    ),
                   ),
-                ),
-                Text(
-                  'View All',
-                  textAlign: TextAlign.left,
-                  style: TextStyle(
-                    fontSize: 16.0,
-                    fontWeight: FontWeight.w600,
-                    color: Colors.grey,
+                  Text(
+                    'View All',
+                    textAlign: TextAlign.left,
+                    style: TextStyle(
+                      fontSize: 16.0,
+                      fontWeight: FontWeight.w600,
+                      color: Colors.grey,
+                    ),
                   ),
+                ],
+              ),
+          // TODO: Implementation of the listitem click
+              Container(
+                height: 115,
+                child: ButtonListView(
+                  onBrandSelected: widget.onBrandSelected,
                 ),
-              ],
-            ),
-            SizedBox(height:24),
-            //TODO Add the listview here when ever the function is executed. the listview should be updated with the passed array to the function
-            Container(
-              height: 64,
-              child: TypeListView(types: selectedTypes),
-            ),
-
-            SizedBox(height:24),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-
-              children: [
-                Text(
-                  'Most Rated',
-                  textAlign: TextAlign.left,
-                  style: TextStyle(
-                    fontSize: 24.0,
-                    fontWeight: FontWeight.w900,
-                    color: Color(0xFF40279D),
+              ),
+          
+              SizedBox(height:24),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          
+                children: [
+                  Text(
+                    'Most Rated',
+                    textAlign: TextAlign.left,
+                    style: TextStyle(
+                      fontSize: 24.0,
+                      fontWeight: FontWeight.w900,
+                      color: Color(0xFF40279D),
+                    ),
                   ),
-                ),
-                Text(
-                  'View All',
-                  textAlign: TextAlign.left,
-                  style: TextStyle(
-                    fontSize: 16.0,
-                    fontWeight: FontWeight.w600,
-                    color: Colors.grey,
+                  Text(
+                    'View All',
+                    textAlign: TextAlign.left,
+                    style: TextStyle(
+                      fontSize: 16.0,
+                      fontWeight: FontWeight.w600,
+                      color: Colors.grey,
+                    ),
                   ),
-                ),
-              ],
-            ),
-
-
-            // TODO: ADD this new listview to this level;
-          ],
+                ],
+              ),
+              SizedBox(height:24),
+              //TODO Add the listview here when ever the function is executed. the listview should be updated with the passed array to the function
+              Container(
+                height: 64,
+                child: TypeListView(types: selectedTypes),
+              ),
+          
+              SizedBox(height:24),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          
+                children: [
+                  Text(
+                    'Most Rated',
+                    textAlign: TextAlign.left,
+                    style: TextStyle(
+                      fontSize: 24.0,
+                      fontWeight: FontWeight.w900,
+                      color: Color(0xFF40279D),
+                    ),
+                  ),
+                  Text(
+                    'View All',
+                    textAlign: TextAlign.left,
+                    style: TextStyle(
+                      fontSize: 16.0,
+                      fontWeight: FontWeight.w600,
+                      color: Colors.grey,
+                    ),
+                  ),
+                ],
+              ),
+              Container(
+                height: 184,
+                child: VehicleListView(vehicleList: vehicleList,),
+              ),
+          
+              // TODO: ADD this new listview to this level;
+            ],
+          ),
         ),
       ),
     );
