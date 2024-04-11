@@ -22,15 +22,15 @@ This repository contains the source code for a vehicle rental application that a
      <td> Reset Password screen</td>
      <td> Completion screen</td>
   </tr>
-  <tr>
-    <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/94679c19-610b-4431-9046-a7d7855ee051" width=200></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/5ce616be-6328-47d6-8841-f686a7de3b50" width=200></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/f0db13b3-88ac-49cf-85b7-da62c0f16e0e" width=200></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/3fe99ffa-5c7b-4cdd-a835-47eefd84fb70" width=200></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/78a16b82-ef68-4ae4-8ddc-4e395bb4f2e2" width=200></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/78df4dfb-76af-48b5-b7d5-a40d5cc9f999" width=200></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/39ad9060-4773-4669-9e8f-aa633794b1d1" width=200></td>
-  </tr>
+<tr>
+  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/6af9b354-673f-4884-a1ca-f7ffd19ecbb3" width=200></td>
+  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/0a0fdbdb-90ce-4334-947d-615e01e739b5" width=200></td>
+  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/39ba7647-5a53-4fef-a90c-b7bc152674a7" width=200></td>
+  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/3cbbc00c-0b78-47f2-9dce-5a5d35c652a1" width=200></td>
+  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/25aa40c1-66fc-45b4-b64a-272f4c4ef604" width=200></td>
+  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/8f89758a-110d-41d6-b49d-f9f1272697c6" width=200></td>
+  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/70a59ac9-e82d-4d1c-a20a-61cb4481c63f" width=200></td>
+</tr>
  </table>
 
 
