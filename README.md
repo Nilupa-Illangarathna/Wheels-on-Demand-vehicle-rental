@@ -32,13 +32,6 @@ This repository contains the source code for a vehicle rental application that a
     <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/39ad9060-4773-4669-9e8f-aa633794b1d1" width=200></td>
   </tr>
  </table>
-![Screenshot_1712831610](https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/94679c19-610b-4431-9046-a7d7855ee051)
-![Screenshot_1712831613](https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/5ce616be-6328-47d6-8841-f686a7de3b50)
-![Screenshot_1712831616](https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/f0db13b3-88ac-49cf-85b7-da62c0f16e0e)
-![Screenshot_1712831749](https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/3fe99ffa-5c7b-4cdd-a835-47eefd84fb70)
-![Screenshot_1712831752](https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/78a16b82-ef68-4ae4-8ddc-4e395bb4f2e2)
-![Screenshot_1712831791](https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/78df4dfb-76af-48b5-b7d5-a40d5cc9f999)
-![Screenshot_1712831794](https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/39ad9060-4773-4669-9e8f-aa633794b1d1)
 
 
 
