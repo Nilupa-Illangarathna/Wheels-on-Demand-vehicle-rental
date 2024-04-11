@@ -216,6 +216,15 @@ class _NewVehiclePageState extends State<NewVehiclePage> {
       vehicleList.addVehicle(newVehicle);
 
       sendDataToBackend([newVehicle]);
+
+      // Show Snackbar
+      final snackBar = SnackBar(
+        content: Text('The new car model created', style: TextStyle(color: Colors.black, fontSize:20)),
+        backgroundColor: Colors.grey[50],
+        behavior: SnackBarBehavior.floating,
+        margin: EdgeInsets.only(bottom: 0.0),
+      );
+      ScaffoldMessenger.of(context).showSnackBar(snackBar);
       // sendDataToBackend(DummyData);
       // You can perform further actions here, like saving the Vehicle object to a database
     }

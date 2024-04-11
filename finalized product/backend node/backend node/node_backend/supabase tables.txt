@@ -41,6 +41,8 @@ CREATE TABLE u_turn_available_vehicles (
 //////////// rented vehicles///////////
 CREATE TABLE u_turn_rented_vehicles (
     id VARCHAR(36) PRIMARY KEY,
+    username TEXT NOT NULL,
+    password TEXT NOT NULL,
     brand VARCHAR(100) NOT NULL,
     type VARCHAR(100) NOT NULL,
     model VARCHAR(100) NOT NULL,
@@ -54,5 +56,4 @@ CREATE TABLE u_turn_rented_vehicles (
     numberofvehiclesavailable INTEGER NOT NULL,
     description TEXT NOT NULL
 );
-
 

@@ -84,8 +84,8 @@ class _HomePageState extends State<HomePage> {
               label: 'Profile',
             ),
             BottomNavigationBarItem(
-              icon: Icon(Icons.person_outline),
-              label: 'Notifications',
+              icon: Icon(Icons.add),
+              label: 'Add car',
             ),
             // BottomNavigationBarItem(
             //   icon: Icon(Icons.arrow_back_ios_outlined),
