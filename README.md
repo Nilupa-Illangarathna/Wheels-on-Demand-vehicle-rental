@@ -13,7 +13,34 @@ This repository contains the source code for a vehicle rental application that a
 - **Authentication Module**: Includes functionalities for login, signup, and forgot password, with OTP sending via email and mobile.
 - **Homepage**: Features a homepage with a page view functionality to navigate between different sections.
 - **App Drawer**: Provides users with an app drawer for easy navigation within the application.
-- **Vehicle Rental**: Allows users to browse available vehicles, view details, and rent vehicles for desired durations.
+- 
+## Applications
+
+### Customer Application
+
+The customer application allows users to browse available vehicles, view details, and rent vehicles for their desired duration.
+
+### Retailer Application
+
+The retailer application provides functionalities for retailers to manage their vehicle inventory, add new vehicles, and track rentals.
+
+
+<table>
+  <tr>
+    <td> Helper screen</td>
+     <td> Helper screen</td>
+     <td> Helper screen</td>
+    <td> Helper screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/59089468-847c-48f8-a3e1-78559c9fa93b" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/e6c73b0f-f3d3-4619-b28a-7fbfcf57ae38" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/15ae5c6e-0d1e-47ed-bd82-aa4c008b5fd4" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/15ae5c6e-0d1e-47ed-bd82-aa4c008b5fd4" width=300></td>
+  </tr>
+ </table>
+
+
 
 ## Installation
 
