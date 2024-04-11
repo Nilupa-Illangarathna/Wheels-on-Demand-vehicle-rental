@@ -10,7 +10,8 @@ This repository contains the source code for a vehicle rental application that a
 
 ## Features
 
-- **Authentication Module**: Includes functionalities for login, signup, and forgot password, with OTP sending via email and mobile.
+# Authentication Module:
+### Includes functionalities for login, signup, and forgot password, with OTP sending via email and mobile.
 
 <table>
   <tr>
@@ -35,16 +36,15 @@ This repository contains the source code for a vehicle rental application that a
 
 
   
-- **Homepage**: Features a homepage with a page view functionality to navigate between different sections.
-- **App Drawer**: Provides users with an app drawer for easy navigation within the application.
-- 
-## Applications
+# Homepage:
+### Features a homepage with a page view functionality to navigate between different sections.
 
-### Customer Application
+
+## Customer Application
 
 The customer application allows users to browse available vehicles, view details, and rent vehicles for their desired duration.
 
-### Retailer Application
+## Retailer Application
 
 The retailer application provides functionalities for retailers to manage their vehicle inventory, add new vehicles, and track rentals.
 
