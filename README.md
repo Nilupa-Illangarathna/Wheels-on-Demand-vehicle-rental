@@ -19,9 +19,9 @@ This repository contains the source code for a vehicle rental application that a
      <td> SendOTP screen</td>
   </tr>
 <tr>
-  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/0a0fdbdb-90ce-4334-947d-615e01e739b5" width=200></td>
-  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/39ba7647-5a53-4fef-a90c-b7bc152674a7" width=200></td>
-  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/3cbbc00c-0b78-47f2-9dce-5a5d35c652a1" width=200></td>
+  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/0a0fdbdb-90ce-4334-947d-615e01e739b5" width=400></td>
+  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/39ba7647-5a53-4fef-a90c-b7bc152674a7" width=400></td>
+  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/3cbbc00c-0b78-47f2-9dce-5a5d35c652a1" width=400></td>
 </tr>
  </table>
 <table>
@@ -31,9 +31,9 @@ This repository contains the source code for a vehicle rental application that a
      <td> Completion screen</td>
   </tr>
 <tr>
-  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/25aa40c1-66fc-45b4-b64a-272f4c4ef604" width=200></td>
-  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/8f89758a-110d-41d6-b49d-f9f1272697c6" width=200></td>
-  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/70a59ac9-e82d-4d1c-a20a-61cb4481c63f" width=200></td>
+  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/25aa40c1-66fc-45b4-b64a-272f4c4ef604" width=400></td>
+  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/8f89758a-110d-41d6-b49d-f9f1272697c6" width=400></td>
+  <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/70a59ac9-e82d-4d1c-a20a-61cb4481c63f" width=400></td>
 </tr>
  </table>
 
