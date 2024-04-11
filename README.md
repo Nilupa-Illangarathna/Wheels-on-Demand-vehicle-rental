@@ -4,15 +4,16 @@ Welcome to the Wheels On Demand Vehicle Rental application repository!
 
 This repository contains the source code for a vehicle rental application that allows users to rent vehicles from a pool of available options. The application consists of separate apps for customers and retailers, with a backend built using Node.js and a Supabase database to manage data.
 
- ![Flutter](https://img.shields.io/badge/Flutter-2.10.0-blue)
- ![Node.js](https://img.shields.io/badge/Node.js-16.14.0-green)
- ![Supabase](https://img.shields.io/badge/Supabase-Latest-orange)
+![Flutter](https://img.shields.io/badge/Flutter-2.10.0-blue)
+![Node.js](https://img.shields.io/badge/Node.js-16.14.0-green)
+![Supabase](https://img.shields.io/badge/Supabase-Latest-orange)
 
 ## Features
 
 - **Authentication Module**: Includes functionalities for login, signup, and forgot password, with OTP sending via email and mobile.
 - **Homepage**: Features a homepage with a page view functionality to navigate between different sections.
 - **App Drawer**: Provides users with an app drawer for easy navigation within the application.
+- **Vehicle Rental**: Allows users to browse available vehicles, view details, and rent vehicles for desired durations.
 
 ## Installation
 
