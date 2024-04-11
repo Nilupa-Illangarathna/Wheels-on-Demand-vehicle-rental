@@ -11,6 +11,38 @@ This repository contains the source code for a vehicle rental application that a
 ## Features
 
 - **Authentication Module**: Includes functionalities for login, signup, and forgot password, with OTP sending via email and mobile.
+
+<table>
+  <tr>
+     <td> Splash screen</td>
+     <td> Login screen</td>
+     <td> SignUp screen</td>
+     <td> SendOTP screen</td>
+     <td> Varify screen</td>
+     <td> Reset Password screen</td>
+     <td> Completion screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/94679c19-610b-4431-9046-a7d7855ee051" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/5ce616be-6328-47d6-8841-f686a7de3b50" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/f0db13b3-88ac-49cf-85b7-da62c0f16e0e" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/3fe99ffa-5c7b-4cdd-a835-47eefd84fb70" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/78a16b82-ef68-4ae4-8ddc-4e395bb4f2e2" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/78df4dfb-76af-48b5-b7d5-a40d5cc9f999" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/39ad9060-4773-4669-9e8f-aa633794b1d1" width=300></td>
+  </tr>
+ </table>
+![Screenshot_1712831610](https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/94679c19-610b-4431-9046-a7d7855ee051)
+![Screenshot_1712831613](https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/5ce616be-6328-47d6-8841-f686a7de3b50)
+![Screenshot_1712831616](https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/f0db13b3-88ac-49cf-85b7-da62c0f16e0e)
+![Screenshot_1712831749](https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/3fe99ffa-5c7b-4cdd-a835-47eefd84fb70)
+![Screenshot_1712831752](https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/78a16b82-ef68-4ae4-8ddc-4e395bb4f2e2)
+![Screenshot_1712831791](https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/78df4dfb-76af-48b5-b7d5-a40d5cc9f999)
+![Screenshot_1712831794](https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/39ad9060-4773-4669-9e8f-aa633794b1d1)
+
+
+
+  
 - **Homepage**: Features a homepage with a page view functionality to navigate between different sections.
 - **App Drawer**: Provides users with an app drawer for easy navigation within the application.
 - 
@@ -25,20 +57,9 @@ The customer application allows users to browse available vehicles, view details
 The retailer application provides functionalities for retailers to manage their vehicle inventory, add new vehicles, and track rentals.
 
 
-<table>
-  <tr>
-    <td> Helper screen</td>
-     <td> Helper screen</td>
-     <td> Helper screen</td>
-    <td> Helper screen</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/59089468-847c-48f8-a3e1-78559c9fa93b" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/e6c73b0f-f3d3-4619-b28a-7fbfcf57ae38" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/15ae5c6e-0d1e-47ed-bd82-aa4c008b5fd4" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/15ae5c6e-0d1e-47ed-bd82-aa4c008b5fd4" width=300></td>
-  </tr>
- </table>
+
+
+
 
 
 
