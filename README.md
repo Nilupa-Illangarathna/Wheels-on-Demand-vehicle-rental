@@ -1,6 +1,6 @@
 # Wheels On Demand Vehicle Rental
 
-Welcome to the Wheels On Demand Vehicle Rental application repository!
+Welcome to the Wheels On Demand Vehicle Rental application repository! This is fully functional implementation which took only one day of coding and setting up.
 
 This repository contains the source code for a vehicle rental application that allows users to rent vehicles from a pool of available options. The application consists of separate apps for customers and retailers, with a backend built using Node.js and a Supabase database to manage data.
 
