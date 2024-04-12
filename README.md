@@ -96,6 +96,29 @@ The retailer application provides functionalities for retailers to manage their 
  </table>
 
 
+## Database Structure
+
+Postgre RDS was used as the Database
+
+
+
+ <table>
+    <tr>
+      <td> Tables</td>
+      <td> Availble Vehicles</td>
+      <td> Rented Vehicles screen</td>
+      <td> Users</td>
+      <td> OTP log</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/Nilupa-Illangarathna/Wheels-on-Demand-vehicle-rental/assets/95247831/2ddf9015-b0bd-4d01-a243-0d808cf34d8d" width=300></td>
+      <td><img src="https://github.com/Nilupa-Illangarathna/Wheels-on-Demand-vehicle-rental/assets/95247831/0bb62b37-4632-4f9d-9008-b73eb4e29400" width=300></td>
+      <td><img src="https://github.com/Nilupa-Illangarathna/Wheels-on-Demand-vehicle-rental/assets/95247831/f30b06b4-9b39-4455-abc2-4df7bc7a9e4e" width=300></td>
+<td><img src="https://github.com/Nilupa-Illangarathna/Wheels-on-Demand-vehicle-rental/assets/95247831/1f6c134c-51a5-4de4-84cb-add81468ea5a" width=300></td>
+      <td><img src="https://github.com/Nilupa-Illangarathna/Wheels-on-Demand-vehicle-rental/assets/95247831/e032c972-33ba-4720-a78c-2bb81585db96" width=300></td>
+    </tr>
+ </table>
+
 
 
 
