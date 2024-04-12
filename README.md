@@ -48,19 +48,21 @@ The customer application allows users to browse available vehicles, view details
  <table>
     <tr>
       <td> Home screen</td>
-      <td> Home screen</td>
       <td> Vehicle details screen</td>
-      <td> On rent screen</td>
-      <td> On rent screen</td>
-      <td> Add vehicles screen</td>
+      <td> Order screen</td>
+      <td> Payment Gateway screen</td>
+      <td> Validation screen</td>
+      <td> Success screen</td>
+      <td> Customer view screen</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/6410f1e2-fd8c-4e65-8880-89f87e8b3352" width=300></td>
-      <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/a3b9ca8e-3bf6-4658-95de-41f09b2a8a59" width=300></td>
-      <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/18cb4ee1-2752-49f3-8add-1d3c5351dded" width=300></td>
-      <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/e817dded-53a8-49db-8ff2-e7d50e437a36" width=300></td>
-      <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/d9cd9270-45b8-42d4-9d25-0208907a2307" width=300></td>
-      <td><img src="https://github.com/Nilupa-Illangarathna/wheels-on-demand-vehicle-rental/assets/95247831/ab1270ab-7d26-49eb-8441-b419d3b56a00" width=300></td>
+      <td><img src="https://github.com/Nilupa-Illangarathna/Wheels-on-Demand-vehicle-rental/assets/95247831/6bfdce50-6c48-4d7a-9856-bdfe4b19e220" width=300></td>
+      <td><img src="https://github.com/Nilupa-Illangarathna/Wheels-on-Demand-vehicle-rental/assets/95247831/3b1ebfab-79dc-4d34-b51b-5dd241ab6781" width=300></td>  
+      <td><img src="https://github.com/Nilupa-Illangarathna/Wheels-on-Demand-vehicle-rental/assets/95247831/dc99238d-c2df-42e8-99fd-67ba9fa444a0" width=300></td>
+      <td><img src="https://github.com/Nilupa-Illangarathna/Wheels-on-Demand-vehicle-rental/assets/95247831/2ffe748b-30b5-4ab7-9742-92547ae334fe" width=300></td>
+      <td><img src="https://github.com/Nilupa-Illangarathna/Wheels-on-Demand-vehicle-rental/assets/95247831/09259c6e-ec33-4529-9b32-084a59faf8bc" width=300></td>
+      <td><img src="https://github.com/Nilupa-Illangarathna/Wheels-on-Demand-vehicle-rental/assets/95247831/b1743726-0ee2-4e9a-9751-30dc62b889e5" width=300></td>
+      <td><img src="https://github.com/Nilupa-Illangarathna/Wheels-on-Demand-vehicle-rental/assets/95247831/9be8bd9e-d8d6-416d-b848-fedb95dc44b9" width=300></td>
     </tr>
  </table>
 
